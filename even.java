@@ -1,6 +1,6 @@
 /**Author: KevinGeorge Jimon
  * Date:19-07-2025
- * Write a Java program to print all even numbers between 1 and 20 using a do while looр.
+ * print all even numbers between 1 and 20 using a do while looр.
  */
 public class Even {
     public static void main(String[] args) {
